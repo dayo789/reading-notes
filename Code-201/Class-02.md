@@ -6,9 +6,9 @@
 
 - It is important to use semantics in our HTML so that the browser knows how to display things correctly.
 
-- There are 6 levels of sub headings in Html {<h1>, <h2>, <h3>, <h4>, <h5>, and <h6>}
+- There are 6 levels of sub headings in Html <h1>, <h2>, <h3>, <h4>, <h5>, and <h6>
 
-- The use for superscript <sup>  and subscript <sub> for marking up items like dates, chemical formulae, and mathematical equations so they have the correct meaning.
+- The use for superscript <sup> and subscript <sub> for marking up items like dates, chemical formulae, and mathematical equations so they have the correct meaning.
 
 - The abbreviation <abbr> ellement is used to wrap around an abbreviation or acronym.
 
