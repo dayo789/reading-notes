@@ -1,2 +1,17 @@
 # Reading notes
 ## Code 201 Reading Notes
+- [Reading Assignment 1] (Code-201/class-01.md)
+- [Reading Assignment 2] (Code-201/class-02.md)
+- [Reading Assignment 3] (Code-201/class-03.md)
+- [Reading Assignment 4] (Code-201/class-04.md)
+- [Reading Assignment 5] (Code-201/class-05.md)
+- [Reading Assignment 6] (Code-201/class-06.md)
+- [Reading Assignment 7] (Code-201/class-07.md)
+- [Reading Assignment 8] (Code-201/class-08.md)
+- [Reading Assignment 9] (Code-201/class-09.md)
+- [Reading Assignment 10] (Code-201/class-10.md)
+- [Reading Assignment 11] (Code-201/class-11.md)
+- [Reading Assignment 12] (Code-201/class-12.md)
+- [Reading Assignment 13] (Code-201/class-13.md)
+- [Reading Assignment 14] (Code-201/class-14.md)
+- [Reading Assignment 15] (Code-201/class-15.md)
